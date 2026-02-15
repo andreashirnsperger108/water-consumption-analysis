@@ -1,0 +1,21 @@
+[project]
+name = "water-consumption-analysis"
+version = "0.1.0"
+description = "Reproducible analysis pipeline for water consumption data."
+requires-python = ">=3.10"
+dependencies = [
+  "numpy",
+  "pandas",
+  "matplotlib",
+  "scikit-learn",
+  "statsmodels",
+  "openpyxl",
+  "pyyaml",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff", "jupyter", "ipykernel"]
+
+[tool.ruff]
+line-length = 100
+select = ["E", "F", "I"]

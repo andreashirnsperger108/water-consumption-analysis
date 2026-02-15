@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Wasserverbrauch Analyse"
+message: "Wenn du dieses Repository nutzt, zitiere es bitte wie folgt."
+type: software
+authors:
+  - family-names: "Hirnsperger"
+    given-names: "Andreas"
+version: 0.1.0
+date-released: 2026-02-15
