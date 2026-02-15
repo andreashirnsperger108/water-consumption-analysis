@@ -41,7 +41,6 @@ jupyter lab
 - `notebooks/` – explorative Analyse & Prototyping
 - `src/` – wiederverwendbarer Code (load/clean/features/plots)
 - `reports/` – Reports & Abbildungen
-- `configs/` – Parameter & Pfade
 - `data/` – Roh-/Zwischen-/aufbereitete Daten
 
 ## Reproduzierbare Runs (Optional)
