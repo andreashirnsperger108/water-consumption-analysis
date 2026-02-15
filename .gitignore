@@ -19,9 +19,12 @@ env/
 *.nbconvert.ipynb
 
 # Data / Models / Outputs (typisch nicht versionieren)
-# data/raw
-# data/interim
-# data/processed
+<<<<<<< HEAD
+=======
+# data/raw/
+# data/interim/
+# data/processed/
+>>>>>>> ce6b91fec17c3de1da487f95b1eb8f76429fc201
 models/
 exports/
 reports/figures/
