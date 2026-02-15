@@ -41,15 +41,7 @@ jupyter lab
 - `notebooks/` – explorative Analyse & Prototyping
 - `src/` – wiederverwendbarer Code (load/clean/features/plots)
 - `reports/` – Reports & Abbildungen
-- `configs/` – Parameter & Pfade
 - `data/` – Roh-/Zwischen-/aufbereitete Daten
-
-## Reproduzierbare Runs (Optional)
-CLI-Skelett:
-```bash
-python -m src.cli train --config configs/config.yaml
-python -m src.cli predict --config configs/config.yaml
-```
 
 ## Lizenz
 Siehe `LICENSE`.
